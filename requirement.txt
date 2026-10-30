@@ -1,0 +1,4 @@
+%%writefile requirements.txt
+
+streamlit>=1.41,<2.0
+groq>=0.13.0
